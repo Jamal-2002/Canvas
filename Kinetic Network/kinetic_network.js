@@ -155,7 +155,7 @@ this.draw()
     c.beginPath();
     c.lineWidth = 5;
     c.fillStyle = 'grey';
-    c.arc(this.pos.x,this.pos.y,this.radius,0,Math.PI * 2);
+    //c.arc(this.pos.x,this.pos.y,this.radius,0,Math.PI * 2);
     c.fill();
 
     
